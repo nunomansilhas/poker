@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Nuno Mansilhas e Afonso Viana
+ * @author Nuno Mansilhas e Afonso Vianaa
  */
 public class Poker extends Application {
     
